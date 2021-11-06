@@ -1,0 +1,55 @@
+/* Dark theme */
+.txtareaDark{
+  color: white;
+  background-color: #757575;
+}
+.headingsContainerDark{
+  color: white;
+}
+
+/* Red theme */
+.txtareaRed{
+  background-color: #FF7373;
+  color: black;
+}
+.headingsContainerRed{
+  color:black;
+}
+
+/* Yellow theme */
+.txtareaYellow{
+  background-color: #FFCC66;
+  color: black;
+}
+
+.headingsContainerYellow{
+  color: black;
+}
+
+/* Green */
+.txtareaGreen{
+  background-color: #66E399;
+  color: black;
+}
+
+.headingsContainerGreen{
+  color: black;
+}
+
+/* Blue */
+.txtareaBlue{
+  background-color: #8BD5F2;
+  color: black;
+}
+.headingsContainerBlue{
+  color: black;
+}
+
+/* White */
+.txtareaWhite{
+  background-color: white;
+  color: black;
+}
+.headingsContainerWhite{
+  color: black;
+}
